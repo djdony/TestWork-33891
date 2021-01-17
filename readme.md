@@ -19,3 +19,17 @@ Models with primary key Uuid, softdeletes
 
 Repository pattern, Services, Requests, Resources.
 
+### Backend Tests
+test_can_create_an_employee
+
+test_can_get_list_of_all_employees
+
+test_can_get_a_single_employee
+
+test_can_update_an_employee
+
+test_can_delete_an_employee
+
+### TODO
+
+Auth and middlewares

@@ -15,9 +15,9 @@ class EmployeeRepository extends AbstractRepository implements EmployeeRepositor
 
     public function update(string $id, array $data): bool
     {
-        $Employee = $this->getById($id);
+        $employee = $this->getById($id);
 
-        return $Employee->fill($data)->save();
+        return $employee->fill($data)->save();
     }
 
     public function delete(string $id): bool
