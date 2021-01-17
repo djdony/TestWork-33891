@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../html/client/.idea/client.iml" filepath="$PROJECT_DIR$/../html/client/.idea/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/laravel.iml" filepath="$PROJECT_DIR$/.idea/laravel.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/nuxt-with-express-master/.idea/nuxt-with-express-master.iml" filepath="$USER_HOME$/Downloads/nuxt-with-express-master/.idea/nuxt-with-express-master.iml" />
+    </modules>
+  </component>
+</project>
